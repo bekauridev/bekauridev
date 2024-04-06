@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/giorgi-bekauri-8ba974228/overlay/background-image/"  />
+
 Hi 👋 My name is Giorgi
 =======================
 
