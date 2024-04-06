@@ -16,15 +16,21 @@ I'm a beginner developer with a great passion for building things with code.
 
 ### Skills
 
-
-<p align="left">
-      <p align="left">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+ <p align="left">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
             width="36"
             height="36"
-            alt="Git"
+            alt="VS Code"
+          />
+        </a>
+        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+            width="36"
+            height="36"
+            alt="Vite"
           />
         </a>
         <a
@@ -68,7 +74,6 @@ I'm a beginner developer with a great passion for building things with code.
           />
         </a>
       </p>
-</p>
 
 
 ### Socials
