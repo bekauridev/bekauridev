@@ -10,7 +10,7 @@ I'm a beginner developer with a great passion for building things with code.
 * 🌍  I'm based in Georgia / Tbilisi
 * 🖥️  See my portfolio at [MyPortfolio](http://giorgibekauri.netlify.app)
 * ✉️  You can contact me at [beqauri.forwork@gmail.com](mailto:beqauri.forwork@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Express
 * 🤝  I'm open to collaborating on beginner-friendly Js / React app
 * ⚡  I am interested in psychology 😊
 <p> <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif"/> </p>
