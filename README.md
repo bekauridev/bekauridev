@@ -5,7 +5,7 @@ Hi 👋 My name is Giorgi
 Front-End Developer
 -------------------
 
-I'm a front-end developer with a great passion for building things with code. 
+I'm a front-end developer with a great passion for building things with code. </br>
 Currently working on Python/Django to improve my skills even further
 
 * 🌍  I'm based in Georgia / Tbilisi
