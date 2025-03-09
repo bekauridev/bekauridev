@@ -8,7 +8,7 @@ Front-End Developer
 I'm a beginner developer with a great passion for building things with code.
 
 * 🌍  I'm based in Georgia / Tbilisi
-* 🖥️  See my portfolio at [MyPortfolio](http://giorgibekauri.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://bekauridev.vercel.app/)
 * ✉️  You can contact me at [beqauri.forwork@gmail.com](mailto:beqauri.forwork@gmail.com)
 * 🧠  I'm learning Express
 * 🤝  I'm open to collaborating on Js / React / express app 
