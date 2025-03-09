@@ -5,7 +5,8 @@ Hi 👋 My name is Giorgi
 Front-End Developer
 -------------------
 
-I'm a beginner developer with a great passion for building things with code.
+I'm a front-end developer with a great passion for building things with code. 
+Currently working on Python/Django to improve my skills even further
 
 * 🌍  I'm based in Georgia / Tbilisi
 * 🖥️  See my portfolio at [MyPortfolio](https://bekauridev.vercel.app/)
