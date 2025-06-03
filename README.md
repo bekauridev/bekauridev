@@ -11,7 +11,7 @@ Currently working on Python/Django to improve my skills even further
 * 🌍  I'm based in Georgia / Tbilisi
 * 🖥️  See my portfolio at [MyPortfolio](https://bekauridev.vercel.app/)
 * ✉️  You can contact me at [beqauri.forwork@gmail.com](mailto:beqauri.forwork@gmail.com)
-* 🧠  I'm learning Express
+* 🧠  I'm learning PHP/Laravel 
 * 🤝  I'm open to collaborating on Js / React / express app 
 * ⚡  I am interested in psychology 😊
 <p> <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAC/work-computer.gif"/> </p>
